@@ -2,7 +2,7 @@
  *
  * Created by: Brandon
  * Created on: Feb 2026
- * This program will say 'Hello, SMTHS!'
+ * This program will say 'Hello, MTHS!'
 */
 
 basic.showString('Hello, MTHS!')
